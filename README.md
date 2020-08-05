@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firatsezel" alt="firatsezel" /> </p>
 
-- 🔭 I’m currently working on [bestTimeLines4ever](https://github.com/firatsezel/besttimelines4ever.git)
+- 🔭 I’m currently working on [bestTimeLines4ever](https://firatsezel.github.io/besttimelines4ever/)
 
 - 🌱 I’m currently learning **Adobe Animate**
 
