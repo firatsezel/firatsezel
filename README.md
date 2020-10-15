@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [bestTimeLines4ever](https://firatsezel.github.io/besttimelines4ever/)
 
-- 🌱 I’m currently learning **Adobe Animate**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on [react-native-check-accessibility](https://github.com/firatsezel/react-native-check-accessibility.git)
 
